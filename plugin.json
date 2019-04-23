@@ -1,0 +1,12 @@
+{
+    "ID": "E36B816781FACDE790A514FB0B72C87A",
+    "ActionKeyword": "bmi",
+    "Name": "Wox.Plugin.Bmi",
+    "Description": "BMI calculation",
+    "Author": "luoxu34",
+    "Version": "0.1",
+    "Language": "python",
+    "Website": "https://github.com/luoxu34/Wox.Plugin.Bmi",
+    "IcoPath": "Images\\app.png",
+    "ExecuteFileName": "main.py"
+}
